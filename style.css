@@ -1,0 +1,49 @@
+.Container {
+  border: 2px solid black;
+  width: 352px;
+  height: 520px;
+  background-color: rgb(19, 15, 15);
+}
+
+.button2 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #d4d4d2;
+  font-size: 25px;
+  margin: 5px;
+}
+
+.button3 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #ff9500;
+  color: white;
+  font-size: 25px;
+  margin: 5px;
+}
+
+.button4 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #505050;
+  color: white;
+  font-size: 25px;
+  margin: 5px;
+}
+
+.input {
+  height: 85px;
+  width: 345px;
+  font-size: 35px;
+  background-color: black;
+  color: white;
+  text-align: right;
+}
+
+.wraper {
+  padding-left: 10px;
+  margin-top: 20px;
+}
